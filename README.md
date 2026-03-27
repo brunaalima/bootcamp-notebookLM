@@ -102,8 +102,15 @@ A informação técnica de qualidade é o suporte para a soberania alimentar da 
 O sucesso da alimentação nos primeiros dois anos de vida assenta em três pilares fundamentais: a soberania do leite materno como padrão de ouro, a rejeição absoluta aos produtos ultraprocessados e o respeito pelo tempo de desenvolvimento sensorial e motor da criança. Alimentar um bebé não é apenas um ato biológico, mas uma prática social, cultural e de afeto. Ao investir numa introdução alimentar ativa e informada, as famílias garantem a autonomia da criança e constroem o capital de saúde da próxima geração, reduzindo drasticamente a incidência de doenças evitáveis.
 
 **Um conjunto de prompts que podem ser utilizados seria:**
+
 "Quais as bases de uma boa introdução alimentar?"
+
 "Quais são os sinais de prontidão e como identificar?"
+
 "Quais marcos eu posso ter durante a introdução alimentar para indicar que  está no caminho correto?"
+
 "Sobre métodos de introdução alimentar, como por exemplo o modelo tradicional e o BLW, quais os aspectos positivos de ambos?"
+
 "Relação entre a introdução alimentar e desenvolvimento de alergias"
+
+NotebookLM criado: https://notebooklm.google.com/notebook/b119bbea-3636-49e3-810a-e0fa2f257fb4 
